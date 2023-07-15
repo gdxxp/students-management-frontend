@@ -1,0 +1,4 @@
+.eslintrc.cjs
+.gitignore
+.prettierignore
+**.json
