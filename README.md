@@ -4,6 +4,8 @@
 ![预览](./public/img.png)
 ![预览](./public/img2.png)
 
+## [后端代码链接](https://github.com/gdxxp/students-management-backend)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
