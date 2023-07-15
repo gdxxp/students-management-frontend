@@ -1,6 +1,6 @@
 # students-management-frontend
 
-# 预览：
+## 预览：
 ![预览](./public/img.png)
 ![预览](./public/img2.png)
 
